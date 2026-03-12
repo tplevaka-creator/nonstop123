@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-course-work/",
+    "build": "vite build --base=/ 
+nonstop123/",
     "preview": "vite preview",
     "deploy": "npm run build && gh-pages -d dist"
   },
